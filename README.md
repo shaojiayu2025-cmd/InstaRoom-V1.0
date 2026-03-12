@@ -221,7 +221,7 @@ This project uses the following third-party services and libraries:
 | Role | Member |
 |------|--------|
 | Project Lead | Jiayu Shao |
-| Developer | [Jack Kang] |
+| Developer | Jack Kang |
 
 ## 📝 License
 
